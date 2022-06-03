@@ -3,8 +3,17 @@
     font-family: "Verdana", "DejaVu SAns", sans-serif;
 }
 
-.Odds.Cooler {
-    background-color: #FF886F;
-    font-family: "Verdana", "DejaVu SAns", sans-serif;
+.Cooler {
     font-size: 24px;
+}
+
+#second {
+    color: #63C5DA;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold
 }
